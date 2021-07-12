@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElectionsLulu
 - 👀 I’m interested in secure, accurate, accessible, transparent elections
-- 🌱 I’m currently learning a lot. Check out SMARTelections.us. I am a co-founder. 
+- 🌱 I’m currently learning a lot. Check out https://smartelections.us/. I am a co-founder. 
 - 💞️ I’m looking to collaborate on lots of things.
 - 📫 How to reach me - contact@SMARTelections.us
 
